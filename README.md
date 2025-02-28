@@ -1,6 +1,8 @@
 # 90.7 WXIN Radio App 📻
 
-![90.7 WXIN Logo](./wxin-logo.png)
+<p align="center">
+    <img src="./wxin%20logo.jpeg" alt="90.7 WXIN Logo" width="200"/>
+</p>
 
 The official app for **90.7 WXIN**, Rhode Island College's student-run radio station. Stay connected, listen live, catch up on podcasts, and keep up with the latest from RIC Radio — all in one place!
 
